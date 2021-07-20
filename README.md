@@ -23,7 +23,7 @@ git pull origin master
 ### 上传
 git push -u origin master
 
-# SpringBoot+Mybatis+Vue.js实现简单的数据库操作
+# SpringBoot+Mybatis+Vue.js+element-ui实现简单的数据库操作前后端
 ## SpringBoot+MyBatis（使用IDEA）
 ### 建立项目，File->New->Project，选择Spring Initializr，其他设置可以参考下图，点击Next进行下一步
 ![new_project](https://user-images.githubusercontent.com/34829040/126280550-b3ea3223-8678-4610-b7ed-63837e3ee03d.PNG)
